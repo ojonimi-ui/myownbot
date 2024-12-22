@@ -11,7 +11,7 @@ def home():
     return "I'm alive!"
 
 
-BOT_TOKEN = "7965214339:AAHJIji1rZFZA_saXXx59B1WxPOz3Quz8og"
+BOT_TOKEN = "7941559197:AAErxwkY5SqMkjKFNETRKH8vqQcoSGsMQEU"
 DEXSCREENER_API_URL = "https://api.dexscreener.com/latest/dex/tokens/"
 bot = telebot.TeleBot(BOT_TOKEN)
 
